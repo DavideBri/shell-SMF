@@ -111,5 +111,11 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ll="ls -la"
+alias update='sudo apt update && sudo apt dist-upgrade -y'
+alias purge='sudo apt autoremove -y && sudo apt autoclean -y && sudo apt clean'
+alias forecast='curl "wttr.in/Pisa?m2&lang=it"'
+alias la='ls -la'
+alias htop='bpytop'
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
