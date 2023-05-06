@@ -59,6 +59,12 @@ sudo apt install zsh
   ```
 > Dont worry about warning about plugins
 
+You succesfully imported also aliases such as
+- update
+- purge
+- forecast
+- htop
+
 🎉 DONE! (2/4)
 
 ## oh-my-zsh 👀
