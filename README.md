@@ -1,19 +1,4 @@
-# shell-superMegaFiga
-COOL!
-
-
-# Tool installati
-- [X] terminator
-  - [X]  keybinding per split tab
-  - [X] beautify
-- [ ] zsh
-  - [ ] newline aka command line stuck at the bottom   
-- [ ] oh-my-zsh
-  - [ ] theme (Rainbow)
-  - [ ] plugin (git, sudo, zsh-autocomplete, zsh-highilight)
-- [ ] powerline10k
-
-# How to replicate
+# How to Install shell-superMegaFiga
 
 Prerequisites:
 A Unix-like operating system, git, curl, wget, pip3
@@ -22,9 +7,9 @@ A Unix-like operating system, git, curl, wget, pip3
 sudo apt install git curl wget
 sudo apt install python3-pip
 ``` 
+> reload and resart the program when installing or modifing the config file.
 
-Install
-## terminator
+## terminator 📺
   
   install it from the snap store.
 
@@ -46,7 +31,7 @@ Install
   ```
   mv terminator/ ../.config/
   ```
-  DONE! (1/4)
+  🎉 DONE! (1/4)
 
   > TIP to open the contex menu click the scroll wheel on the terminal
 
@@ -59,7 +44,7 @@ Install
   `CTR+SHIFT+W` close current terminal
 
 
-## zsh
+## zsh 🔥
 
 install zsh
 ```
@@ -71,9 +56,9 @@ sudo apt install zsh
   ```
 > Dont worry about warning about plugins
 
-DONE! (2/4)
+🎉 DONE! (2/4)
 
-## oh-my-zsh
+## oh-my-zsh 👀
 
 install it from:
 ```
@@ -90,9 +75,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
   git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
   ```
 
-DONE! (3/4)
+🎉 DONE! (3/4)
 
-## powerline10k
+## powerline10k 🔋
 
 install the oh-my-zsh theme by running:
 
@@ -106,3 +91,6 @@ Now paste the `.p10k.zsh` file into the old one
   ```
   mv .p10k.zsh ../.p10k.zsh
   ```
+DONE! (4/4) 🥳🥳
+
+enjoy the shell
