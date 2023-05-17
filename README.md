@@ -103,4 +103,4 @@ Now paste the `.p10k.zsh` file into the old one
   ```
 DONE! (4/4) 🥳🥳
 
-enjoy the shell
+enjoy the SMF-shell
