@@ -117,5 +117,16 @@ alias forecast='curl "wttr.in/Pisa?m2&lang=it"'
 alias la='ls -la'
 alias htop='bpytop'
 
+upload () {
+  if [ -z "$1" ]
+  then
+    echo "Usage: upload [file.txt]";
+    return 1;
+  else
+    curl -T "$1" temp.sh
+    echo ""
+  fi
+}
+
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
