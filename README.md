@@ -1,6 +1,7 @@
 ![image](https://github.com/DavideBri/shell-superMegaFiga/assets/70480082/7a174ecd-d781-47f3-b39d-e798c63e02dd)
 
-This repo is my bakcup of config file for my zsh shell. However if you want to replicate it below there is a step-by-step guide 
+The purpose of this repository is to serve as a backup for the configuration file of my zsh shell. 
+In case you would like to recreate it, you may refer to the step-by-step guide provided below.
 
 
 # How to Install shell-SMF
