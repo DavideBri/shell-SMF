@@ -1,7 +1,9 @@
-![image](https://user-images.githubusercontent.com/70480082/236649634-948f7a83-3762-4aca-a89c-676c366c41c3.png)
+![image](https://github.com/DavideBri/shell-superMegaFiga/assets/70480082/7a174ecd-d781-47f3-b39d-e798c63e02dd)
+
+This repo is my bakcup of config file for my zsh shell. However if you want to replicate it below there is a step-by-step guide 
 
 
-# How to Install shell-superMegaFiga
+# How to Install shell-SMF
 
 Prerequisites:
 A Unix-like operating system, git, curl, wget, pip3
