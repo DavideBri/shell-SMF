@@ -1,17 +1,35 @@
 [global_config]
   dbus = False
-  window_state = hidden
   enabled_plugins = LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler, TerminatorThemes
   putty_paste_style = True
 [keybindings]
 [profiles]
   [[default]]
-    background_color = "#1e1f29"
+    background_color = "#1c1e26"
     cursor_shape = ibeam
-    cursor_color = "#aaaaaa"
-    foreground_color = "#f8f8f2"
+    cursor_color = "#e95379"
+    cursor_color_fg = False
+    foreground_color = "#bbbbbb"
     show_titlebar = False
-    palette = "#44475a:#ff5555:#50fa7b:#f1fa8c:#8be9fd:#bd93f9:#ff79c6:#94a3a5:#000000:#ff5555:#50fa7b:#f1fa8c:#8be9fd:#bd93f9:#ff79c6:#ffffff"
+    scrollbar_position = hidden
+    scroll_on_output = True
+    palette = "#e9436f:#f9cbbe:#ffaf87:#27d796:#6c6f93:#fdf0ed:#fadad1:#b877db:#e95379:#fadad1:#fac29a:#09f7a0:#6c6f8a:#ffffff:#eddad1:#b88adb"
+  [[Aci]]
+    background_color = "#0d1926"
+    cursor_shape = ibeam
+    cursor_color = "#c4e9ff"
+    cursor_color_fg = False
+    foreground_color = "#b4e1fd"
+    show_titlebar = False
+    palette = "#363636:#ff0883:#83ff08:#ff8308:#0883ff:#8308ff:#08ff83:#b6b6b6:#363636:#ff0883:#83ff08:#ff8308:#0883ff:#8308ff:#08ff83:#b6b6b6"
+  [[Halcyon]]
+    background_color = "#171c28"
+    cursor_shape = ibeam
+    cursor_color = "#5ccfe6"
+    cursor_color_fg = False
+    foreground_color = "#d7dce2"
+    show_titlebar = False
+    palette = "#1d2433:#ef6b73:#bae67e:#ffd580:#6679a4:#c3a6ff:#5ccfe6:#d7dce2:#1d2433:#ef6b73:#bae67e:#ffd580:#6679a4:#c3a6ff:#5ccfe6:#d7dce2"
 [layouts]
   [[default]]
     [[[window0]]]
