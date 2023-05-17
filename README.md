@@ -63,7 +63,8 @@ You succesfully imported also aliases such as
 - update
 - purge
 - forecast
-- htop
+- htop ( but is bytop )
+- upload [file] ( upload a file to tmp.sh )
 
 🎉 DONE! (2/4)
 
