@@ -4,6 +4,10 @@
 The purpose of this repository is to serve as a backup for the configuration file of my zsh shell. 
 In case you would like to recreate it, you may refer to the step-by-step guide provided below.
 
+# TODO
+
+- [ ] Automate the install
+
 
 # How to Install shell-SMF
 
